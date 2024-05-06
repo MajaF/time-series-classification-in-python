@@ -1,3 +1,7 @@
+# conda env create -f environment.yml
+# conda activate sktime
+
+# für meine eigenen Test brauche ich noch: pyarrow
 name: sktime
 channels:
   - conda-forge
